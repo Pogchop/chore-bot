@@ -1,0 +1,52 @@
+body{
+    background-color: #010165;
+}
+.header{
+    text-align: center;
+    background-color: #00ffff;
+}
+.instruction{
+    text-align: center;
+    padding-top: 40px;
+}
+.instruction-word{
+    display: inline;
+    color: #00ffff;
+    font-size: 20px;
+}
+.row{
+    margin: 0 auto;
+    width: 400px;
+}
+.number{
+    width: 10%;
+    font-size: 36px;
+    color: #00ffff;
+}
+.text{
+    width: 89%;
+    font-size: 14px;
+    color: #ffffff;
+}
+.text, .number{
+    display: inline-block;
+    vertical-align: middle;
+    margin:0;
+}
+.door{
+    padding-top: 30px;
+    text-align: center;
+}
+.door-pointer{
+    padding: 10px;
+    cursor: pointer;
+}
+.streak{
+
+}
+.highscore{
+
+}
+.start{
+    
+}
